@@ -1,0 +1,47 @@
+body {
+    font-family: Noto sans, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h1  {
+    text-align: center;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  div {
+    margin-bottom: 10px;
+  }
+  input, button {
+    padding: 10px;
+    margin-top: 5px;
+  }
+  #activity-list {
+    list-style: none;
+    padding: 0;
+  }
+  #activity-list li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  .dashboard-container {
+    margin-top: 20px;
+    width:60%;
+    /* margin: 20px 40px; */
+    /* background: grey; */
+    margin:auto;
+
+  }
+  
